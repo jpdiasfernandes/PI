@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ficha_6.dir/main.c.o CMakeFiles/ficha_6.dir/Funções.c.o  -o ficha_6 

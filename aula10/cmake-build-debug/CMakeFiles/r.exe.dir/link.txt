@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/r.exe.dir/readFile.c.o CMakeFiles/r.exe.dir/dicionario.c.o  -o r.exe 

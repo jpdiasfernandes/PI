@@ -1,0 +1,3 @@
+/home/jose/Universidade/PI/ficha 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jose/Universidade/PI/ficha 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jose/Universidade/PI/ficha 7/cmake-build-debug/CMakeFiles/ficha_7.dir

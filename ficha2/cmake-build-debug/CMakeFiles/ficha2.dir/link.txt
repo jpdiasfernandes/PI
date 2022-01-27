@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ficha2.dir/testar.c.o CMakeFiles/ficha2.dir/ficha2.c.o  -o ficha2 

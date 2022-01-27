@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jose/Universidade/PI/50questoes/ficha.c
+ficha.h
+/home/jose/Universidade/PI/50questoes/ficha.h
+stdio.h
+-
+
+/home/jose/Universidade/PI/50questoes/ficha.h
+

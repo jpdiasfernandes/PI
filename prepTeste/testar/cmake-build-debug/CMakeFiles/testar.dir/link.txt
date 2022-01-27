@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/testar.dir/testar.c.o CMakeFiles/testar.dir/teste_19_20/teste_19_20.c.o  -o testar 

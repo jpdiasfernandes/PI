@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jose/Universidade/PI/aula10/dicionario.c
+dicionario.h
+/home/jose/Universidade/PI/aula10/dicionario.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+/home/jose/Universidade/PI/aula10/dicionario.h
+

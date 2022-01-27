@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ficha_6" targetName="ficha_6" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c0a4781-45e2-43f5-9b46-8b053907ae9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZWeMrM35Ob6nAYVNVozwNHrh9t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LI2/rastos" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ficha_6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ficha_6" TARGET_NAME="ficha_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ficha_6" RUN_TARGET_NAME="ficha_6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c0a4781-45e2-43f5-9b46-8b053907ae9f" name="Default Changelist" comment="" />
+      <created>1584959232369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584959232369</updated>
+      <workItem from="1584959233490" duration="4979000" />
+      <workItem from="1585300161881" duration="4993000" />
+      <workItem from="1585394854600" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="737" y="296" width="424" height="511" key="FileChooserDialogImpl" timestamp="1585394905225">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="737" y="296" width="424" height="511" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1585394905225" />
+    <state width="1874" height="344" key="GridCell.Tab.0.bottom" timestamp="1584965323135">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584965323135" />
+    <state width="1874" height="344" key="GridCell.Tab.0.center" timestamp="1584965323133">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584965323133" />
+    <state width="1874" height="344" key="GridCell.Tab.0.left" timestamp="1584965323131">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584965323131" />
+    <state width="1874" height="344" key="GridCell.Tab.0.right" timestamp="1584965323134">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584965323134" />
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom" timestamp="1584965323137">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584965323137" />
+    <state width="1874" height="344" key="GridCell.Tab.1.center" timestamp="1584965323136">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584965323136" />
+    <state width="1874" height="344" key="GridCell.Tab.1.left" timestamp="1584965323136">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584965323136" />
+    <state width="1874" height="344" key="GridCell.Tab.1.right" timestamp="1584965323137">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584965323137" />
+    <state x="634" y="246" width="641" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585302839437">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="634" y="246" width="641" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1585302839437" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1584960775036">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1584960775036" />
+  </component>
+</project>

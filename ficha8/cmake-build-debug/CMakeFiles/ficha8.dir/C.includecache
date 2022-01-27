@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jose/Universidade/PI/ficha8/exercicios/funções.h
+
+/home/jose/Universidade/PI/ficha8/main.c
+stdio.h
+-
+stdlib.h
+-
+exercicios/funções.h
+/home/jose/Universidade/PI/ficha8/exercicios/funções.h
+
